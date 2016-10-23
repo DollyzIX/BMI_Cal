@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">BMI Cal</string>
+    <string name="textView" >height(cm.)</string>
+    <string name="textView1" >weight(kg.)</string>
+    <string name="btn1" >Calculate</string>
+    <string name="กก" translatable="false">sdgsdg</string>
+    <string name="textView6"></string>
+    <string name="textView4"></string>
+
+</resources>
+
